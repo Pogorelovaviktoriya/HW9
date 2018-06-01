@@ -19,7 +19,7 @@ Command(Ctrl) + F (Find all)
 
 (^|\s)+[А-Я][а-я]*(слав)
 
-493 упоминания.
+623 упоминания.
 
 ![](https://github.com/Pogorelovaviktoriya/HW9/blob/master/screen2.jpg)
 
