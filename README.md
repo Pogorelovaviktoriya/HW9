@@ -8,7 +8,7 @@
 
 Command(Ctrl) + H (Replace All)
 
-![](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fgithub.com%2FPogorelovaviktoriya%2FHW9%2Fblob%2Fmaster%2Fscreen1.jpg)
+![](https://github.com/Pogorelovaviktoriya/HW9/blob/master/screen1.jpg)
 
 
 Заменяем (^\n*\r*\s)|(^\n) на "" (Пустую строку) 
@@ -21,7 +21,7 @@ Command(Ctrl) + F (Find all)
 
 493 упоминания.
 
-![](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fgithub.com%2FPogorelovaviktoriya%2FHW9%2Fblob%2Fmaster%2Fscreen2.jpg)
+![](https://github.com/Pogorelovaviktoriya/HW9/blob/master/screen2.jpg)
 
 **Найти все упоминания Новгорода**
 
@@ -31,7 +31,7 @@ Command(Ctrl) + F (Find all)
 
 58 упоминаний.
 
-![](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fgithub.com%2FPogorelovaviktoriya%2FHW9%2Fblob%2Fmaster%2Fscreen3.jpg)
+![](https://github.com/Pogorelovaviktoriya/HW9/blob/master/screen3.jpg)
 
 **После каждого знака препинания поставить пробел**
 
@@ -39,4 +39,4 @@ Command(Ctrl) + H (Replace All)
 
 ([.,:;-?!]) заменяем на \1 (Обязательно с пробелом в конце)
 
-![](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fgithub.com%2FPogorelovaviktoriya%2FHW9%2Fblob%2Fmaster%2Fscreen4.jpg)
+![](https://github.com/Pogorelovaviktoriya/HW9/blob/master/screen4.jpg)
